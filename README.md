@@ -1,16 +1,20 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IslamicDate.today</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="font-family: Arial, sans-serif; text-align: center; padding: 40px;">
 
-<!--
-**islamicdatetoday/islamicdatetoday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <p style="font-size: 22px;">
+        🌙 Don’t guess the Hijri date again.  
+        <br><br>
+        <a href="https://islamicdate.today" target="_blank" style="text-decoration: none; font-weight: bold;">
+            IslamicDate.today
+        </a>
+        shows today’s Islamic date instantly, plus a full Hijri calendar and date converter. Fast, simple, and always there when you need it.
+    </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</body>
+</html>
