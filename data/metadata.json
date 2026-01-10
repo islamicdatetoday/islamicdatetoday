@@ -1,1 +1,13 @@
+{
+  "name": "IslamicDate.Today Hijri Date Dataset",
+  "publisher": "IslamicDate.Today",
+  "description": "A machine-readable dataset providing daily mappings between Gregorian dates and Hijri dates as published by IslamicDate.Today.",
+  "coverage": "Global",
+  "start_range": "2020-01-01",
+  "end_range": "2030-12-31",
+  "update_policy": "Updated periodically",
+  "methodology": "Documented in /methodology/",
+  "license": "CC-BY 4.0",
+  "homepage": "https://islamicdate.today"
+}
 
