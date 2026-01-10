@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>IslamicDate.Today – Reference Date Tool</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h1>IslamicDate.Today – Reference Date Tool</h1>
+
+  <div class="card">
+    <h2>Status</h2>
+    <div id="status">Initializing...</div>
+    <div>Total rows loaded: <span id="totalRows">0</span></div>
+  </div>
+
+  <div class="card">
+    <h2>Gregorian → Hijri Conversion</h2>
+
+    <label for="gregorianInput">Select Gregorian date:</label>
+    <input type="date" id="gregorianInput" />
+
+    <div style="margin-top: 10px;">
+      <button id="convertBtn">Convert</button>
+    </div>
+
+    <div class="result" id="result"></div>
+  </div>
+
+  <div class="card">
+    <h2>About This Tool</h2>
+    <p>
+      This is a reference implementation using the IslamicDate.Today Hijri dataset.
+      It demonstrates how to load, index, and query the published calendar data.
+    </p>
+    <p>
+      The results are for informational and technical reference purposes.
+    </p>
+  </div>
+
+  <div class="footer">
+    IslamicDate.Today — Data & Reference Tools
+  </div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
