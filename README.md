@@ -1,39 +1,15 @@
-# 🌙 IslamicDate.today — Today's Islamic (Hijri) Date
+# IslamicDate.Today
 
-**Don’t guess the Hijri date again.**
+IslamicDate.Today is a reference platform for Islamic calendar systems and Hijri date data.
 
-[IslamicDate.today](https://islamicdate.today) is a fast and simple website that shows **today’s Islamic (Hijri) date instantly**, along with a full Hijri calendar and an easy date converter.
+The project provides documentation, datasets, and methodological notes for multiple Islamic calendar systems, including the Umm Al Qura calendar and other observational and astronomical Hijri dating methods.
 
----
+The purpose of this repository is to:
 
-## ✨ Features
+- Document Islamic calendar systems in a neutral and structured manner
+- Provide machine-readable Hijri date datasets
+- Describe calculation and determination methodologies
+- Provide stable definitions and references for Islamic calendar terminology
+- Serve as the documentation and data backend for https://islamicdate.today
 
-- 📅 Shows **today’s Hijri date** instantly
-- 🗓️ Full **Islamic (Hijri) calendar**
-- 🔁 **Hijri ↔ Gregorian date converter**
-- ⏳ Ramadan & Islamic events countdown
-- ⚡ Fast, lightweight, and mobile-friendly
-
----
-
-## 🌍 Live Website
-
-👉 **Visit now:** https://islamicdate.today
-
----
-
-## 🧠 Important Note
-
-Islamic dates are based on moon sighting and may vary by country and local authority. This website uses calculated dates for general reference and planning.
-
----
-
-## 🛠️ Keywords (SEO)
-
-Islamic date, Hijri date today, Hijri calendar, Islamic calendar, Hijri date converter, today Islamic date, Ramadan countdown
-
----
-
-## ❤️ Made for the Ummah
-
-If you find this project useful, please ⭐ star the repo and share it.
+This repository is not a blog and not a news source. It is intended to function as a long-term reference and data documentation project.
