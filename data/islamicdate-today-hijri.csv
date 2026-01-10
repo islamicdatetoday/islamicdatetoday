@@ -1,1 +1,6 @@
+gregorian_date,weekday,hijri_day,hijri_month,hijri_month_name,hijri_year,calendar_system,source,notes
+2026-01-01,Thursday,11,7,Rajab,1447,islamicdate.today,IslamicDate.Today,
+2026-01-02,Friday,12,7,Rajab,1447,islamicdate.today,IslamicDate.Today,
+2026-01-03,Saturday,13,7,Rajab,1447,islamicdate.today,IslamicDate.Today,
+2026-01-04,Sunday,14,7,Rajab,1447,islamicdate.today,IslamicDate.Today,
 
