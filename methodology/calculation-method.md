@@ -1,8 +1,11 @@
-# Calculation Method
+# Data Sources
 
-IslamicDate.Today uses a systematic method to generate Hijri date data.
+IslamicDate.Today aggregates and standardizes Islamic date information from a variety of publicly available references and calculation methods.
 
-This method is designed to be consistent, reproducible, and suitable for use in software systems, data analysis, and reference applications.
+Sources may include:
 
-Details of the calculation or determination approach may evolve over time and will be documented in this repository when changes occur.
+- Published calendar tables
+- Astronomical calculation references
+- Public reference materials
 
+Each dataset published in this repository is provided with metadata describing its scope and coverage.
