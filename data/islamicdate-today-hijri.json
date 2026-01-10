@@ -1,1 +1,32 @@
+{
+  "dataset": "IslamicDate.Today Hijri Date Dataset",
+  "publisher": "IslamicDate.Today",
+  "version": "1.0",
+  "license": "CC-BY 4.0",
+  "generated": "2026-01-10",
+  "data": [
+    {
+      "gregorian_date": "2026-01-01",
+      "weekday": "Thursday",
+      "hijri_day": 11,
+      "hijri_month": 7,
+      "hijri_month_name": "Rajab",
+      "hijri_year": 1447,
+      "calendar_system": "islamicdate.today",
+      "source": "IslamicDate.Today",
+      "notes": ""
+    },
+    {
+      "gregorian_date": "2026-01-02",
+      "weekday": "Friday",
+      "hijri_day": 12,
+      "hijri_month": 7,
+      "hijri_month_name": "Rajab",
+      "hijri_year": 1447,
+      "calendar_system": "islamicdate.today",
+      "source": "IslamicDate.Today",
+      "notes": ""
+    }
+  ]
+}
 
